@@ -11,3 +11,8 @@ $ ./nob
 $ sudo cp ./build/tore /usr/local/bin/
 $ echo "tore" >> ~/.bashrc
 ```
+
+### Arch Linux (AUR)
+```console
+$ yay -S tore
+```
