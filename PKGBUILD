@@ -1,6 +1,6 @@
 # Contributor: Alexey Kutepov <reximkut@gmail.com>
 # Maintainer: Nicholas Heyer <nick@heyer.app>
-pkgname=tore-git
+pkgname=tore
 pkgver=1.0.0
 pkgrel=1
 pkgdesc="A notification/reminder command-line utility"
